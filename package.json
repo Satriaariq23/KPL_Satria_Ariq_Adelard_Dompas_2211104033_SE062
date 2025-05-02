@@ -1,0 +1,20 @@
+{
+  "name": "kpl_satria_ariq_adelard_dompas_2211104033_se062",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satriaariq23/KPL_Satria_Ariq_Adelard_Dompas_2211104033_SE062.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satriaariq23/KPL_Satria_Ariq_Adelard_Dompas_2211104033_SE062/issues"
+  },
+  "homepage": "https://github.com/Satriaariq23/KPL_Satria_Ariq_Adelard_Dompas_2211104033_SE062#readme"
+}

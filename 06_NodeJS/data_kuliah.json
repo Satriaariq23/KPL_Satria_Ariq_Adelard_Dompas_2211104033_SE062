@@ -1,0 +1,16 @@
+{
+    "student": {
+      "name": "Satria Ariq Adelard Dompas"
+    },
+    "lecturerCode": "22211104033",
+    "courses": [
+      {
+        "courseCode": "SE06B",
+        "courseName": "Kontruksi Perangkat Lunak"
+      },
+      {
+        "courseCode": "SE06B",
+        "courseName": "Basis Data"
+      }
+    ]
+  }
