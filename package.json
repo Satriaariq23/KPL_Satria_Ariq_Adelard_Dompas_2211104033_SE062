@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Satriaariq23/KPL_Satria_Ariq_Adelard_Dompas_2211104033_SE062/issues"
   },
-  "homepage": "https://github.com/Satriaariq23/KPL_Satria_Ariq_Adelard_Dompas_2211104033_SE062#readme"
+  "homepage": "https://github.com/Satriaariq23/KPL_Satria_Ariq_Adelard_Dompas_2211104033_SE062#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
